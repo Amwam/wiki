@@ -1,0 +1,47 @@
+# Dev Tools
+
+Some useful tooling to aid with software development.
+
+- [Screenshot.rocks](https://screenshot.rocks/) - Puts screenshots inside a browser window
+
+## Command Line apps
+
+- [bat](https://github.com/sharkdp/bat) - better cat
+- [exa](https://github.com/ogham/exa) - Better `ls`
+- [direnv](https://direnv.net/) - Load and unload environment variables depending on the current directory
+
+## Linux Specific
+
+- [kinto](https://github.com/rbreaves/kinto) Rename Copy+Paste to be like MacOS
+
+## Self improvement
+
+- [Foam](https://foambubble.github.io/foam/) - Open source second brain (ala Roam Research)
+
+### Typing
+
+- [keybr](https://www.keybr.com/) - Analyses typing, and uses algorithms to help you practice certain key presses
+- [10 Fast Fingers](https://10fastfingers.com/typing-test/english) - General typing practice
+- [keychron](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard) - Keyboard brand recommended by a friend
+
+## React stuff
+
+- [GatsbyJS](https://www.gatsbyjs.com/) - Pluggable Site generator for React
+
+## Web
+
+- [Will it CORS](https://httptoolkit.tech/will-it-cors/) - CORS explainer/builder
+- [ngrok](https://ngrok.com/) - Forward external URLs to local
+
+## Databases
+
+- Postgres explain visualisers
+  - [https://explain.depesz.com/](https://explain.depesz.com/)
+  - [https://tatiyants.com/pev](https://tatiyants.com/pev)
+    - has a graph breakdown of the results
+    - Stores results in localstorage, also
+
+## Tried and failed
+
+- Alacritty terminal replacement [https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty) - Seemed fast, but still to early in development.
+  - At the time, didn't have support for tabs
