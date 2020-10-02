@@ -12,4 +12,4 @@ For example: adding more whitespace and limiting the number of fields on a scree
 
 [Trello co-founder Michael Pryor on pandering to power users, skyrocketing numbers, and the spectre of Microsoft](https://www.theregister.com/2020/09/30/trello_pryor/)
 
-But the number of your customers who want unbounded complexity is very, very low.
+> But the number of your customers who want unbounded complexity is very, very low.
