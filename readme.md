@@ -23,7 +23,7 @@ To learn more about how to use **Foam**, read the [Recipes](https://foambubble.g
 We've created a few Bubbles (markdown documents) to get you started.
 
 - [[inbox]] - a place to write down quick notes to be categorised later
-- [[Reading List]]
+- [[Reading List]] - List of things to read and by filed away
 - [[foam-tips]] - tips to get the most out of your Foam workspace
 - [[movies]] - Keep track of movies to watch
 - [[dev-stuff]] - Things related to software developement
