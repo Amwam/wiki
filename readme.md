@@ -1,4 +1,4 @@
-# Foam
+# README
 
 👋 Welcome to your new Foam Workspace!
 
