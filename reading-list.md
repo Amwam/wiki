@@ -7,4 +7,4 @@
 - [tiktok and the sorting hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat)
 - [mastering anti joins (SQL)](https://mode.com/blog/anti-join-examples/)
 - [postgres monitoring for application developers](https://info.crunchydata.com/blog/postgresql-monitoring-for-application-developers-dba-stats)
-- [seo-mistakes-i-have-made-and-how-i-fixed-them])https://blog.maximeheckel.com/posts/seo-mistakes-i-have-made-and-how-i-fixed-them)
+- [seo-mistakes-i-have-made-and-how-i-fixed-them](https://blog.maximeheckel.com/posts/seo-mistakes-i-have-made-and-how-i-fixed-them)
