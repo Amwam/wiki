@@ -17,5 +17,8 @@
   },
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "git.confirmSync": false,
-  "git.rebaseWhenSync": true
+  "git.rebaseWhenSync": true,
+  "cSpell.words": [
+    "covid"
+  ]
 }

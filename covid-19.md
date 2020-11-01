@@ -1,5 +1,7 @@
 # COVID-19
 
+A small collection of resources I'm using to monitor COVID stats that are relevant to me.
+
 ## Government data
 
 - [Cases in Peterborough](https://coronavirus.data.gov.uk/cases?areaType=ltla&areaName=Peterborough)
