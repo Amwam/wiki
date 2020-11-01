@@ -3,6 +3,7 @@
 ## Hooks
 
 ### isLoading
+
 ```js
 import { useState } from "react";
 
@@ -19,6 +20,7 @@ function isLoading(action) {
 ```
 
 Example
+
 ```js
 import {asyncA, asyncB} from './api'
 
@@ -40,7 +42,6 @@ const ComponentWithLoading = () => {
 }
 ```
 
-
 ### isMounted
 
 Useful for async actions, that you don't want to run when the component isn't mounted.
@@ -61,6 +62,7 @@ const isMounted = () => {
 ```
 
 Example
+
 ```js
 function Button ({onClick, ...rest}) {
   const [loading, setLoading] = useState(false);

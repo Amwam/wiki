@@ -41,6 +41,10 @@ Some useful tooling to aid with software development.
     - has a graph breakdown of the results
     - Stores results in localstorage, also
 
+## DevOps
+
+- [ShellCheck](https://www.shellcheck.net/) - Linter for shell scripts
+
 ## Tried and failed
 
 - Alacritty terminal replacement [https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty) - Seemed fast, but still to early in development.
