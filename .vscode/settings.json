@@ -20,5 +20,6 @@
   "git.rebaseWhenSync": true,
   "cSpell.words": [
     "covid"
-  ]
+  ],
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger"
 }
