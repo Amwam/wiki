@@ -4,9 +4,9 @@ A small collection of resources I'm using to monitor COVID stats that are releva
 
 ## Government data
 
-- [Cases in Peterborough](https://coronavirus.data.gov.uk/cases?areaType=ltla&areaName=Peterborough)
-- [Cases in Southwark](https://coronavirus.data.gov.uk/cases?areaType=ltla&areaName=Southwark)
-- [Cases in London](https://coronavirus.data.gov.uk/cases?areaType=region&areaName=London)
+- [Cases in Peterborough](https://coronavirus.data.gov.uk/details/cases?areaType=ltla&areaName=Peterborough)
+- [Cases in Southwark](https://coronavirus.data.gov.uk/details/cases?areaType=ltla&areaName=Southwark)
+- [Cases in London](https://coronavirus.data.gov.uk/details/cases?areaType=region&areaName=London)
 
 
 ## Other sources
