@@ -9,6 +9,7 @@ Some useful tooling to aid with software development.
 - [bat](https://github.com/sharkdp/bat) - better cat
 - [exa](https://github.com/ogham/exa) - Better `ls`
 - [direnv](https://direnv.net/) - Load and unload environment variables depending on the current directory
+- [bashtop](https://github.com/aristocratos/bpytop#installation) - Cool resource monitor that shows usage and stats for processor, memory, disks, network and processes.
 
 ## Linux Specific
 
