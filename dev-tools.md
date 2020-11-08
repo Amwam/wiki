@@ -50,7 +50,7 @@ Some useful tooling to aid with software development.
 
 - [Revisiting Docker for Mac's performance with NFS volumes](https://www.jeffgeerling.com/blog/2020/revisiting-docker-macs-performance-nfs-volumes)
 
-## macoS
+## macOS
 
 - [Why some spaces are saved as unicode (non-breaking space)](https://stackoverflow.com/a/58854106/818739)
 
