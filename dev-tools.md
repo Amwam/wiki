@@ -46,6 +46,10 @@ Some useful tooling to aid with software development.
 
 - [ShellCheck](https://www.shellcheck.net/) - Linter for shell scripts
 
+## Docker
+
+- [Revisiting Docker for Mac's performance with NFS volumes](https://www.jeffgeerling.com/blog/2020/revisiting-docker-macs-performance-nfs-volumes)
+
 ## Tried and failed
 
 - Alacritty terminal replacement [https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty) - Seemed fast, but still to early in development.
