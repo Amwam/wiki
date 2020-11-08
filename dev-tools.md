@@ -46,7 +46,7 @@ Some useful tooling to aid with software development.
 
 - [ShellCheck](https://www.shellcheck.net/) - Linter for shell scripts
 
-## Docker
+## Docker
 
 - [Revisiting Docker for Mac's performance with NFS volumes](https://www.jeffgeerling.com/blog/2020/revisiting-docker-macs-performance-nfs-volumes)
 
