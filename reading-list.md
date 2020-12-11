@@ -8,3 +8,4 @@
 - [mastering anti joins (SQL)](https://mode.com/blog/anti-join-examples/)
 - [postgres monitoring for application developers](https://info.crunchydata.com/blog/postgresql-monitoring-for-application-developers-dba-stats)
 - [seo-mistakes-i-have-made-and-how-i-fixed-them](https://blog.maximeheckel.com/posts/seo-mistakes-i-have-made-and-how-i-fixed-them)
+- [why you should use an ORM](https://monadical.com/posts/why-use-orm.html)
