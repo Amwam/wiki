@@ -9,3 +9,5 @@
 - [postgres monitoring for application developers](https://info.crunchydata.com/blog/postgresql-monitoring-for-application-developers-dba-stats)
 - [seo-mistakes-i-have-made-and-how-i-fixed-them](https://blog.maximeheckel.com/posts/seo-mistakes-i-have-made-and-how-i-fixed-them)
 - [why you should use an ORM](https://monadical.com/posts/why-use-orm.html)
+- [Turn this ship around](https://smile.amazon.co.uk/dp/B015QQ10HE)
+- Blinkist - Consume their leadership section
