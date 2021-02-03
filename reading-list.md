@@ -11,3 +11,4 @@
 - [why you should use an ORM](https://monadical.com/posts/why-use-orm.html)
 - [Turn this ship around](https://smile.amazon.co.uk/dp/B015QQ10HE)
 - Blinkist - Consume their leadership section
+- [Cleaning up your postgres database](https://info.crunchydata.com/blog/cleaning-up-your-postgres-database_
