@@ -12,4 +12,4 @@
 - [Turn this ship around](https://smile.amazon.co.uk/dp/B015QQ10HE)
 - Blinkist - Consume their leadership section
 - [Cleaning up your postgres database](https://info.crunchydata.com/blog/cleaning-up-your-postgres-database)
-
+- [CTO vs VP of Engineering](https://avc.com/2011/10/vp-engineering-vs-cto/)
