@@ -54,6 +54,10 @@ Some useful tooling to aid with software development.
 
 - [Why some spaces are saved as unicode (non-breaking space)](https://stackoverflow.com/a/58854106/818739)
 
+## Photo Editing
+- [photopea](https://www.photopea.com) - Free photoshop alternative, online only
+
+
 ## Tried and failed
 
 - Alacritty terminal replacement [https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty) - Seemed fast, but still to early in development.
