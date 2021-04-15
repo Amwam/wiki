@@ -16,7 +16,10 @@
 # Leadership
 - [CTO vs VP of Engineering](https://avc.com/2011/10/vp-engineering-vs-cto/)
 - [Manager tools](https://www.manager-tools.com/manager-tools-basics)
-
+- [A day in the life: Ashley Joost (Principal Software Engineer, Skyscanner)
+](https://leaddev.medium.com/a-day-in-the-life-ashley-joost-principal-software-engineer-skyscanner-1077201f5abb)
+- [Managers: Are You Responsible “To” or “For” People?
+](https://www.jrothman.com/mpd/2021/04/managers-are-you-responsible-to-or-for-people/?utm_campaign=Level%20Up&utm_medium=email&utm_source=Revue%20newsletter)
 # Managing Support
 - [ITSM, DevOps, and why three-tier support should be replaced with Swarming.
 ](https://jonstevenshall.medium.com/itsm-devops-and-why-the-three-tier-structure-must-be-replaced-with-swarming-91e76ba22304)
