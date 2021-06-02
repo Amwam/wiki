@@ -41,6 +41,7 @@ Some useful tooling to aid with software development.
   - [https://tatiyants.com/pev](https://tatiyants.com/pev)
     - has a graph breakdown of the results
     - Stores results in localstorage, also
+  - [https://explain.dalibo.com/](https://explain.dalibo.com/)
 
 ## DevOps
 
