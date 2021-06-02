@@ -1,6 +1,6 @@
 # Databases
 
-- [[Tools|dev-tools##Databases]]
+- [[Tools|dev-tools#Databases]]
 
 ## Common Table Expressions (CTE)
 
