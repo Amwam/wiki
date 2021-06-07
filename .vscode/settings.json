@@ -19,7 +19,8 @@
   "git.confirmSync": false,
   "git.rebaseWhenSync": true,
   "cSpell.words": [
-    "covid"
+    "covid",
+    "pytest"
   ],
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger"
 }

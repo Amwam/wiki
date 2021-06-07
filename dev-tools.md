@@ -11,9 +11,12 @@ Some useful tooling to aid with software development.
 - [direnv](https://direnv.net/) - Load and unload environment variables depending on the current directory
 - [bashtop](https://github.com/aristocratos/bpytop#installation) - Cool resource monitor that shows usage and stats for processor, memory, disks, network and processes.
 
+## Python
+- [pytest-sockets](https://pypi.org/project/pytest-socket/) - Disallow sockets in pytest tests
+
 ## Linux Specific
 
-- [kinto](https://github.com/rbreaves/kinto) Rename Copy+Paste to be like MacOS
+- [kinto](https://github.com/rbreaves/kinto) - Rename Copy+Paste to be like MacOS
 
 ## Self improvement
 
