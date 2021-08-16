@@ -13,6 +13,7 @@ Some useful tooling to aid with software development.
 
 ## Python
 - [pytest-sockets](https://pypi.org/project/pytest-socket/) - Disallow sockets in pytest tests
+- [tuna](https://github.com/nschloe/tuna) - Import performance visualisation
 
 ## Linux Specific
 
