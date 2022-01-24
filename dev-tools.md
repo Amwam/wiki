@@ -66,6 +66,9 @@ Some useful tooling to aid with software development.
 ## Photo Editing
 - [photopea](https://www.photopea.com) - Free photoshop alternative, online only
 
+## Email
+
+- [https://www.learndmarc.com/](Learn DMARC)
 
 ## Tried and failed
 
