@@ -20,6 +20,8 @@ Some useful tooling to aid with software development.
 - [pytest-sockets](https://pypi.org/project/pytest-socket/) - Disallow sockets in pytest tests
 - [tuna](https://github.com/nschloe/tuna) - Import performance visualisation
 - [Streamlit](https://streamlit.io/ ) - Framework for making data scripts into apps
+- [Locust](https://locust.io/) - Load testing scripting
+
 ## Linux Specific
 
 - [kinto](https://github.com/rbreaves/kinto) - Rename Copy+Paste to be like MacOS
