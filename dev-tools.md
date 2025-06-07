@@ -70,6 +70,7 @@ Some useful tooling to aid with software development.
 ## macOS
 
 - [Why some spaces are saved as unicode (non-breaking space)](https://stackoverflow.com/a/58854106/818739)
+- [[macos]]
 
 ## Photo Editing
 - [photopea](https://www.photopea.com) - Free photoshop alternative, online only
