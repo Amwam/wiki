@@ -62,7 +62,7 @@ Some useful tooling to aid with software development.
 ## DevOps
 
 - [ShellCheck](https://www.shellcheck.net/) - Linter for shell scripts
-
+- [Cloud instances pricing](https://cloud-instances.info/index.html)
 ## Docker
 
 - [Revisiting Docker for Mac's performance with NFS volumes](https://www.jeffgeerling.com/blog/2020/revisiting-docker-macs-performance-nfs-volumes)
@@ -78,6 +78,10 @@ Some useful tooling to aid with software development.
 ## Email
 
 - [https://www.learndmarc.com/](Learn DMARC)
+
+## Images and Icons
+
+ - [SVG Logos](https://svgl.app/)
 
 ## Tried and failed
 
