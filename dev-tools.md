@@ -62,11 +62,10 @@ Some useful tooling to aid with software development.
   - Collection of postgres links
 
 ## DevOps
-
 - [ShellCheck](https://www.shellcheck.net/) - Linter for shell scripts
 - [Cloud instances pricing](https://cloud-instances.info/index.html)
-## Docker
 
+## Docker
 - [Revisiting Docker for Mac's performance with NFS volumes](https://www.jeffgeerling.com/blog/2020/revisiting-docker-macs-performance-nfs-volumes)
 
 ## macOS
