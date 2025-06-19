@@ -83,7 +83,7 @@ Some useful tooling to aid with software development.
 
 ## Performance testing
  - [Artillery](https://www.artillery.io/docs)
-  - Works with playwright scripts
+    - Works with playwright scripts
 
 ## Images and Icons
 
