@@ -3,7 +3,9 @@
 - [docs](https://git-scm.com/docs/git-switch) 
 - [switch vs checkout](https://bluecast.tech/blog/git-switch-branch/)
 - [How core developers configure git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
-    - 
+<details>
+<summary>Config from how core developers configure git</summary>
+
 ```ini
 # clearly makes git better
 
@@ -56,3 +58,4 @@
 [pull]
         # rebase = true
 ```
+</details>
