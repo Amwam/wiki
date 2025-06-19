@@ -56,7 +56,7 @@ Some useful tooling to aid with software development.
     - has a graph breakdown of the results
     - Stores results in localstorage, also
   - [https://explain.dalibo.com/](https://explain.dalibo.com/)
-- [https://use-the-index-luke.com/](Use the Index, Luke) 
+- [https://use-the-index-luke.com/](https://use-the-index-luke.com/) 
   - Breaks down database perforamnce tuning, with different kinds of SQL databases
 - [Postgres is enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
   - Collection of postgres links
