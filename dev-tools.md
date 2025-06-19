@@ -79,7 +79,11 @@ Some useful tooling to aid with software development.
 
 ## Email
 
-- [https://www.learndmarc.com/](Learn DMARC)
+- [Learn DMARC](https://www.learndmarc.com/)
+
+## Performance testing
+ - [Artillery](https://www.artillery.io/docs)
+  - Works with playwright scripts
 
 ## Images and Icons
 
